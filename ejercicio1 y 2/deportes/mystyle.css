@@ -1,0 +1,17 @@
+table,
+th,
+td {
+  border: 1px solid blue;
+}
+
+th {
+  background-color: green;
+}
+
+tr {
+  background-color: aquamarine;
+}
+
+tr:nth-child(odd) {
+  background-color: darkcyan;
+}

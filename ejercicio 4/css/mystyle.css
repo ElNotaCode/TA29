@@ -1,0 +1,29 @@
+body {
+  background-image: url("../img/pinguinos.jpg");
+  background-color: white;
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+table {
+  width: 30vw;
+  margin: auto;
+  margin-top: 50vh;
+  margin-bottom: auto;
+}
+
+th {
+  background-color: whitesmoke;
+}
+
+td {
+  background-color: khaki;
+}

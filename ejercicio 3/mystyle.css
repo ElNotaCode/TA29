@@ -1,0 +1,30 @@
+table {
+  width: 100%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+th {
+  background-color: lightgreen;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  background-color: aqua;
+}
+
+.pink {
+  background-color: pink;
+}
+
+p {
+  text-align: center;
+}
