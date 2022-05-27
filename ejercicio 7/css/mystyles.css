@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  width: 100vw;
+  height: 25vh;
+}
+
+div {
+  border: 1px solid black;
+}
